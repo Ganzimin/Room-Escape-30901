@@ -1,3 +1,9 @@
+/*
+개발자 : 강지민
+개발일 : 2021.09.08
+문의 : jimingang1@gmail.com
+*/
+
 #include<stdio.h>
 #include<unistd.h> // 리눅스 전용
 #include <stdlib.h>
